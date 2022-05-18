@@ -2,7 +2,7 @@ from wallstreet import Stock, Call, Put
 import numpy as np
 import pandas as pd
 
-class Greeks:
+class DollarGreeks:
     # ticker = stock ticker
     # flag = call/put
     # strike = option strike
